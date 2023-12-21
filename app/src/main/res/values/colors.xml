@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Stausdar">#303F9F</color>
+    <color name="backgroundlayout">#82B1FF</color>
+    <color name="iconbg">#039BE5</color>
+    <color name="btncolo">#2BC1AD</color>
+</resources>
